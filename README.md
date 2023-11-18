@@ -1,6 +1,5 @@
 # Assignment4
 
-Sure, here is a template for a README file for your GitHub repository:
 
 ---
 
